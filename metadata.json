@@ -1,0 +1,5 @@
+{
+  "name": "Retro Nokia Snake",
+  "description": "A high-fidelity Nokia 3310-inspired Snake game featuring classic LCD aesthetics, responsive controls, and a system-driven Game Master for strategy and commentary.",
+  "requestFramePermissions": []
+}
